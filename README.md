@@ -12,4 +12,4 @@ Running in paper mode only – no live trading.
 
 > **Source code is private.** This repository is a public write-up only. Happy to walk through the architecture on request.
 
-— Emilio, Computer Science student @ Fontys Venlo · [GitHub profile](https://github.com/Milo0209)
+— Emilio, Informatics student @ Fontys Venlo · [GitHub profile](https://github.com/Milo0209)
